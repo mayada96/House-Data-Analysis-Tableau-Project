@@ -1,4 +1,4 @@
-House Data Analysis
+# House Data Analysis
 ## Overview
 
 This repository is a treasure trove of insights and analysis, focusing on comprehensive dataset of housing information.
@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/arathipraj/house-data
 
 - ` HouseData.xlsx` - Dataset from Kaggle.
 - `King County House Sales.twbx` - Tableau visuals for the analysis.
-- `README.md` - Ths file.
+- `README.md` - Ths document.
 
 ## Usage
 -	Open the Tableau workbook provided with this dataset to access the visualizations.
